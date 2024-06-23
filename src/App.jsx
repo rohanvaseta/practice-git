@@ -11,6 +11,8 @@ function App() {
       <span>some changes</span>
       <h1>Feature 2</h1>
       <span>this is feature 2</span>
+      <h1>feature 5</h1>
+      <span>this is feature 5</span>
     </>
   )
 }
